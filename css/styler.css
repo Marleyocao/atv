@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: gray;
+    height: 106px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tabela{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputs{
+    align-items: center;
+    justify-content: center;
+}
